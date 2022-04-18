@@ -1,0 +1,86 @@
+.twitter .box-left{
+    width: 50%;
+    height: 50vh;
+    float: left;
+}
+
+.twitter .box-left img{
+    width: 100%;
+    height: 110vh;
+    object-fit: cover;
+
+}
+
+.twitter .box-right h1{
+    font-size: 400%;
+    margin-inline: 30px; 
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+}
+
+.twitter .box-right h3{
+    font-size: 200%;
+    color: rgb(0, 0, 0);
+    margin-inline: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.twitter .box-right{
+    border-radius: 20px;
+    width: 50%;
+    height: 50vh;
+    float: right;
+    border-color: rgb(238, 231, 221);
+}
+
+.twitter .box-right button{
+    background-color: rgb(255, 255, 255); 
+    width: 310px;  
+    height: 6.5vh; 
+    border-radius: 20px;
+    border-color: rgb(199, 196, 196);
+    margin-inline: 30px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: medium;
+    }
+.twitter .box-right .three{
+    background-color:rgb(27, 160, 221);
+    color: white;
+    font-weight: 600;
+    font-size: medium;
+}
+
+.twitter .box-right .do{
+    color: rgb(40, 163, 201);
+    margin-inline: 30px;
+    font-size: 70px;
+          
+}
+
+.twitter .box-right h5{
+    color: rgb(127, 128, 128);
+    font-weight: 100;
+    margin-inline: 51px;
+}
+
+.twitter .box-right h4{
+    font-weight: 800;
+    margin-inline: 30px;
+    margin-inline: 90px;
+}
+.twitter .box-right p{
+    margin-inline: 170px;
+    font-weight: 200;
+}
+
+.twitter .box-right .four{
+    color: blue;
+    font-weight: 500;
+    background-color: rgb(255, 255, 255); 
+    width: 310px;  
+    height: 6vh; 
+    border-radius: 20px;
+    margin-inline: 30px;
+}
+ 
+
+
+
